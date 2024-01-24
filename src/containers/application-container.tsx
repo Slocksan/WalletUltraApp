@@ -1,6 +1,7 @@
 import React from "react"
+import { Header } from "../components/header"
 
 export const ApplicationContainer = () => {
 
-  return (<div>Доброго времени суток!</div>)
+  return (<Header />)
 }
